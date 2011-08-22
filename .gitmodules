@@ -1,0 +1,15 @@
+[submodule "modules/tic6x-binutils"]
+	path = modules/tic6x-binutils
+	url = git://git.srobo.org/tic6x-binutils.git
+[submodule "modules/dsp-examples"]
+	path = modules/dsp-examples
+	url = git://git.srobo.org/dsp-code.git
+[submodule "modules/newlib-tic6x"]
+	path = modules/newlib-tic6x
+	url = git://git.srobo.org/newlib-tic6x.git
+[submodule "modules/llvm-tic6x"]
+	path = modules/llvm-tic6x
+	url = git://git.srobo.org/llvm-tic6x.git
+[submodule "modules/clang-tic6x"]
+	path = modules/clang-tic6x
+	url = git://git.srobo.org/clang-tic6x.git
